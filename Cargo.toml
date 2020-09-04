@@ -11,6 +11,7 @@ actix = "0.10.0-alpha.3"
 actix-rt = "1"
 actix-web-actors = "2"
 tokio = { version = "0.2", features = ["macros"] }
+actix-web = "2"
 
 # Ser/deser
 serde = { version = "1", features = ["derive"] }

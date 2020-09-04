@@ -444,6 +444,7 @@ version = "0.1.0"
 dependencies = [
  "actix 0.10.0-alpha.3",
  "actix-rt",
+ "actix-web",
  "actix-web-actors",
  "serde",
  "serde_json",
